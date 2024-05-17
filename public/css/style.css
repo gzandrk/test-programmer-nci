@@ -1,0 +1,13 @@
+.content{
+    flex: 1;
+    padding: 5% 10% 10% 10%;
+    background: #F5F5F4;
+  }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .input-brg{
+    border: none;
+    width: 100%;
+  }
